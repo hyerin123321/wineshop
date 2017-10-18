@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+body {
+	font-size: 12px; 
+	text-align: center;
+}
+
+table {
+	font-size: 12px;
+	text-align: center;
+	border: 1pt solid black;
+}
+
+select {
+	font-size: 12px; 
+}
+
+form {
+	font-size: 12px; 
+}
+
+p{
+	font-weight: bold;
+}
